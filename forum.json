@@ -1,0 +1,16 @@
+{
+	"1": {
+		"id": 1,
+		"title": "JAva EE",
+		"content": "Super puper",
+		"author": "Java Fun",
+		"dateCreated": "2018-12-03 11:21:05",
+		"tags": [
+			"Java",
+			"BackEnd",
+			"Server"
+		],
+		"likes": 0,
+		"comments": []
+	}
+}
